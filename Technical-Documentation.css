@@ -1,0 +1,29 @@
+@media (min-width: 769px, max-width: 1199px) {
+  background-color: lightblue;
+}
+body {
+  background-color: #1f2937;
+  color: white;
+}
+#navbar {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  float: left;
+}
+.nav-link {
+   border: 1px solid black;
+   padding: 20px;
+   text-decoration: none;
+   font-size: 18px;
+   color: white;
+}
+.main-section {
+  display: flex;
+  flex-direction: column;
+  float: right;
+  width: 65%;
+}
+#Variables {
+  margin-bottom: 30px;
+}
