@@ -1,3 +1,7 @@
 # technical-documentation
  Technical Documentation
-<img src ="https://raw.githubusercontent.com/CodrinGavan/technical-documentation/master/Technical-Documentation.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/technical-documentation/">Live Preview</a>
+ </li>
+ </ul>
